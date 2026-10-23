@@ -195,3 +195,5 @@ a.ft{border-color:var(--amber)}a.ft em{font-style:normal;color:var(--amber);font
 .tbl td[data-label]:not(:first-child):before{content:attr(data-label)": ";color:var(--mute)}}
 
 .bgrid li{display:flex}.bgrid a{flex:1;display:flex;align-items:center;justify-content:center}
+
+.dg{margin:0 0 18px}.dg img{width:100%;height:auto;display:block;border:1px solid var(--line);border-radius:6px}.dg figcaption{color:var(--mute);font-size:15px;margin-top:10px}
